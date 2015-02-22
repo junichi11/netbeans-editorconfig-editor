@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The MIT License
+
+Copyright 2015 junichi11.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+<codetemplates>
+    <codetemplate contexts="ec-code" abbreviation="root">
+        <code><![CDATA[root = ${true}${cursor}]]></code>
+        <description>root</description>
+    </codetemplate>
+    <codetemplate contexts="ec-code" abbreviation="ist">
+        <code><![CDATA[indent_style = ${space}${cursor}]]></code>
+        <description>indent_style</description>
+    </codetemplate>
+    <codetemplate contexts="ec-code" abbreviation="isi">
+        <code><![CDATA[indent_size = ${4}${cursor}]]></code>
+        <description>indent_size</description>
+    </codetemplate>
+    <codetemplate contexts="ec-code" abbreviation="tab">
+        <code><![CDATA[tab_width = ${4}${cursor}]]></code>
+        <description>tab_width</description>
+    </codetemplate>
+    <codetemplate contexts="ec-code" abbreviation="eol">
+        <code><![CDATA[end_of_line = ${lf}${cursor}]]></code>
+        <description>end_of_line</description>
+    </codetemplate>
+    <codetemplate contexts="ec-code" abbreviation="char">
+        <code><![CDATA[charset = ${utf-8}${cursor}]]></code>
+        <description>charset</description>
+    </codetemplate>
+    <codetemplate contexts="ec-code" abbreviation="ttw">
+        <code><![CDATA[trim_trailing_whitespace = ${true}${cursor}]]></code>
+        <description>trim_trailing_whitespace</description>
+    </codetemplate>
+    <codetemplate contexts="ec-code" abbreviation="ifn">
+        <code><![CDATA[insert_final_newline = ${true}${cursor}]]></code>
+        <description>insert_final_newline</description>
+    </codetemplate>
+    <codetemplate contexts="ec-code" abbreviation="">
+        <code><![CDATA[max_line_length = ${120}${cursor}]]></code>
+        <description>max_line_length</description>
+    </codetemplate>
+</codetemplates>
