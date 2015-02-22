@@ -9,6 +9,7 @@ This module is still in development.
 - Syntax highlighting
 - Code templates
 - Navigator
+- Toggle comment (You can use `#` and `;`. You can set a line comment prefix on Options :Tools > Options > Miscellaneous > EditorConfig)
 
 ## File name for supporting
 
