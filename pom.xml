@@ -13,6 +13,9 @@
                 <version>3.13</version>
                 <extensions>true</extensions>
                 <configuration>
+                    <licenseName>The MIT license</licenseName>
+                    <licenseFile>license.txt</licenseFile>
+                    <author>junichi11(Junichi Yamamoto)</author>
                     <publicPackages>
                         <publicPackage>com.junichi11.netbeans.modules.editorconfig.editor.api.lexer</publicPackage>
                     </publicPackages>
