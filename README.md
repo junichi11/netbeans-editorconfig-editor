@@ -11,6 +11,12 @@ This module is still in development.
 - Navigator
 - Toggle comment (You can use `#` and `;`. You can set a line comment prefix on Options :Tools > Options > Miscellaneous > EditorConfig)
 
+### Screenshots
+
+![syntax-highlighting](https://dl.dropboxusercontent.com/u/10953443/netbeans/editorconfig/nb-editorconfig-editor-syntax-highlighting.png)
+
+![navigator](https://dl.dropboxusercontent.com/u/10953443/netbeans/editorconfig/nb-editorconfig-editor-navigator.png)
+
 ## File name for supporting
 
 - `.editorconfig`
