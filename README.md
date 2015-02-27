@@ -2,7 +2,7 @@
 
 ## NOTE
 
-This module is still in development.
+This module will be merged into [editorconfig-netbeans](https://github.com/welovecoding/editorconfig-netbeans) So please have a look at it. 
 
 ## Features
 
